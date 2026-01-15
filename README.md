@@ -1,4 +1,4 @@
 - Hi, I am Kavin. I am interested in fluid mechanics, heat transfer, computational fluid dynamics, numerical methods, flow transition and turbulence, and multiphase flows.
 - I am also interested in machine learning and its applications to my broad interests above.
-- I am a PhD student at the Flow Physics and Computational Science (FPCS) Laboratory at the Georgia Institute of Technology.
+- I am a PhD (MechE) student at the Flow Physics and Computational Science (FPCS) Laboratory at the Georgia Institute of Technology.
 - I have graduated from the B.Tech. program in Mechanical Engineering from the National Institute of Technology Karnataka, Surathkal in 2025.
