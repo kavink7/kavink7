@@ -1,4 +1,4 @@
 - Hi, I am Kavin. I am interested in turbulence and multiphase flows. I employ high-performance computing techniques to study these phenomena numerically.
 - I am also interested in machine learning and its applications to my broad interests above.
 - I am a PhD (MechE) student at the Flow Physics and Computational Science (FPCS) Laboratory at the Georgia Institute of Technology.
-- I have graduated from the B.Tech. program in Mechanical Engineering from the National Institute of Technology Karnataka, Surathkal in 2025.
+- I graduated from the B.Tech. program in Mechanical Engineering from the National Institute of Technology Karnataka, Surathkal in 2025.
